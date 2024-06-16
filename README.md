@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jcsaar
+- 👀 I’m interested in Cyber-Security and coding!
+- 🌱 I’m currently learning Python and ReactJS
+- 💞️ I’m looking to collaborate on all kinds of projects!
+- 📫 Find me at jinchengsim@gmail.com
+- 😄 Pronouns: He/Him
